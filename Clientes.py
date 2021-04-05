@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 21 00:42:02 2020
-
-@author: User
-"""
-
 geral = []
 pessoa = {}
 print("1-Cadastrar pessoa")
