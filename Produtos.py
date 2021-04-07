@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  1 19:36:08 2020
-
-@author: User
-"""
-
 pesquisa = []
 produtos = []
 
